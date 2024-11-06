@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -shared  -o libAddConst.so CMakeFiles/AddConst.dir/AddConstPass.cpp.o CMakeFiles/AddConst.dir/AddConstPlugin.cpp.o   -L/home/arman/llvm/llvm-project/build/./lib 
