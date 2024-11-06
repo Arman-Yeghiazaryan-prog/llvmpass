@@ -11,4 +11,6 @@ gcc -shared -fPIC -o libmy_c_code.so my_c_code.c
 $LLVM_OPT -load-pass-plugin ../build/lib/libAddConst.so -passes="add-const" -S ~/llvm/formpreopt.ll -o ~/llvm/afteroptform.ll
 /home/arman/llvm/llvm-project/build/bin/clang ~/llvm/afteroptform.ll -L . libmy_c_code.so -o ~/llvm/finalform
 cd ~/llvm/
+LD_LIBRARY_PATH=/usr/local/lib
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/arman/llvm/llvmpass/lib/
 ./finalform
