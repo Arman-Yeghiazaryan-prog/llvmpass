@@ -1,0 +1,12 @@
+/home/arman/llvm/testpass/build/CMakeFiles/intrinsics_gen.dir
+/home/arman/llvm/testpass/build/CMakeFiles/vt_gen.dir
+/home/arman/llvm/testpass/build/CMakeFiles/omp_gen.dir
+/home/arman/llvm/testpass/build/CMakeFiles/acc_gen.dir
+/home/arman/llvm/testpass/build/CMakeFiles/ARMTargetParserTableGen.dir
+/home/arman/llvm/testpass/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/home/arman/llvm/testpass/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/arman/llvm/testpass/build/CMakeFiles/edit_cache.dir
+/home/arman/llvm/testpass/build/CMakeFiles/rebuild_cache.dir
+/home/arman/llvm/testpass/build/lib/CMakeFiles/AddConst.dir
+/home/arman/llvm/testpass/build/lib/CMakeFiles/edit_cache.dir
+/home/arman/llvm/testpass/build/lib/CMakeFiles/rebuild_cache.dir

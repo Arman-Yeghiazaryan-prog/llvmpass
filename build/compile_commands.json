@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/arman/llvm/testpass/build/lib",
+  "command": "/usr/bin/c++ -DAddConst_EXPORTS -I/home/arman/llvm/llvm-project/llvm/include -I/home/arman/llvm/llvm-project/build/include -I/home/arman/llvm/testpass/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -std=gnu++17 -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/AddConst.dir/AddConstPass.cpp.o -c /home/arman/llvm/testpass/lib/AddConstPass.cpp",
+  "file": "/home/arman/llvm/testpass/lib/AddConstPass.cpp",
+  "output": "lib/CMakeFiles/AddConst.dir/AddConstPass.cpp.o"
+},
+{
+  "directory": "/home/arman/llvm/testpass/build/lib",
+  "command": "/usr/bin/c++ -DAddConst_EXPORTS -I/home/arman/llvm/llvm-project/llvm/include -I/home/arman/llvm/llvm-project/build/include -I/home/arman/llvm/testpass/lib/../include  -Wall    -fdiagnostics-color=always -fno-rtti -fvisibility-inlines-hidden -g -std=gnu++17 -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/AddConst.dir/AddConstPlugin.cpp.o -c /home/arman/llvm/testpass/lib/AddConstPlugin.cpp",
+  "file": "/home/arman/llvm/testpass/lib/AddConstPlugin.cpp",
+  "output": "lib/CMakeFiles/AddConst.dir/AddConstPlugin.cpp.o"
+}
+]
